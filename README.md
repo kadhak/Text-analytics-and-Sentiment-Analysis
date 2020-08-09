@@ -20,3 +20,7 @@
 6. Using NLTK VaderSentimentAnalyser get compound score for each tweet.
 7. Store the original tweets and sentiments in csv.
 8. User can pass one or more keywords to fetch the tweets to twitter api.
+
+
+References:  
+1. https://towardsdatascience.com/extracting-twitter-data-pre-processing-and-sentiment-analysis-using-python-3-0-7192bd8b47cf
